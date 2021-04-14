@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -31,5 +31,5 @@ Dans le fichier TOC.md
 
 | métadonnées | leur fonctionnement |
 |--- |--- |
-| guide-utilisateur-titre | Utilisé dans l’en-tête de l’article comme lien |
+| user-guide-title | Utilisé dans l’en-tête de l’article comme lien |
 | user-guide-url | Ouvre la page du hub d’assistance helpx |
