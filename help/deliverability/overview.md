@@ -1,12 +1,12 @@
 ---
-title: Délivrance
-description: Il s’agit de l’aperçu de l’article.
-keywords: DOM, délivrabilité
-translation-type: tm+mt
+title: Délivrabilité
+description: Aperçu de l’article.
+keywords: DDOM, délivrabilité
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '11'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
