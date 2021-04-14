@@ -1,24 +1,24 @@
 ---
-title: Modèle d'exploitation Adobe piloté par les données
-description: Il s’agit de l’aperçu de l’article.
-keywords: DDOM, transformation numérique
-translation-type: tm+mt
+title: Modèle d’exploitation piloté par les données (DDOM) d’Adobe
+description: Aperçu de l’article.
+keywords: DDOM, transformation digitale
+translation-type: ht
 source-git-commit: a3efa696f0c4172ce04101b538d47a761f4fe41e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Modèle d&#39;exploitation DDOM (Adobe Data-Driven Operating Model)
+# Modèle d’exploitation piloté par les données (DDOM) d’Adobe
 
-Bienvenue dans un aperçu du modèle d&#39;exploitation DDOM (Adobe Data-Driven Operating Model). Dans ce cours, vous apprendrez de [!DNL Adobe Digital Strategy Group] l&#39;histoire de la transformation numérique Adobe, les trois piliers fondamentaux de la DOM, et vous découvrirez des exemples d&#39;informations révélées par la DOM.
+Bienvenue dans la présentation du modèle d’exploitation piloté par les données (DDOM) d’Adobe Dans ce cours, l’équipe [!DNL Adobe Digital Strategy Group] vous fera découvrir l’histoire de la transformation digitale d’Adobe, les trois piliers fondamentaux du modèle d’exploitation DDOM et un certain nombre d’exemples d’idées et de connaissances révélées par le modèle DDOM.
 
-* [Présentation de DDOM](ddom-introduction.md)
-* [Adobe Digital Transformation Story](transformation-story.md)
-* [Les trois piliers fondamentaux du DOM](ddom-components.md)
-* [Informations découvertes par DDOM](ddom-insights.md)
+* [Présentation du modèle d’exploitation DDOM](ddom-introduction.md)
+* [Histoire de la transformation digitale d’Adobe](transformation-story.md)
+* [Les trois piliers fondamentaux du modèle DDOM](ddom-components.md)
+* [Idées et connaissances révélées par le modèle d’exploitation DDOM](ddom-insights.md)
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.
