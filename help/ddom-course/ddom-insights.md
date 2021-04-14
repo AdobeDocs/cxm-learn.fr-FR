@@ -1,17 +1,17 @@
 ---
-title: Informations et enseignements DDOM
-description: 'Écoutez quelques-unes des idées que la DDOM a aidé l''Adobe à découvrir et à en apprendre davantage sur certaines des considérations à prendre en compte dans la mise en place de votre propre version de la DDOM. '
-translation-type: tm+mt
+title: Idées et enseignements du modèle d’exploitation DDOM
+description: 'Découvrez quelques-unes des idées révélées par le modèle d’exploitation DDOM et apprenez-en davantage sur certains aspects à prendre en compte dans la mise en place de votre propre version du DDOM. '
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Informations et enseignements DDOM
+# Idées et enseignements du modèle d’exploitation DDOM
 
-Écoutez quelques-unes des idées que la DDOM a aidé l&#39;Adobe à découvrir et à en apprendre davantage sur certaines des considérations à prendre en compte dans la mise en place de votre propre version de la DDOM.
+Découvrez quelques-unes des idées révélées par le modèle d’exploitation DDOM et apprenez-en davantage sur certains aspects à prendre en compte dans la mise en place de votre propre version du DDOM.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41693)
