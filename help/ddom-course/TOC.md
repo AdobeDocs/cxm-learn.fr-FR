@@ -1,23 +1,23 @@
 ---
-user-guide-title: Guide du modèle d'exploitation piloté par les données d'Adobe
-breadcrumb-title: Guide du modèle d'exploitation piloté par les données
-user-guide-description: Regardez ces vidéos pour savoir comment utiliser un modèle d'exploitation Adobe piloté par les données.
+user-guide-title: Guide d’utilisation du modèle d’exploitation piloté par les données (DDOM) d’Adobe
+breadcrumb-title: Guide d’utilisation du modèle d’exploitation piloté par les données (DDOM)
+user-guide-description: Regardez ces vidéos pour savoir comment utiliser le modèle d’exploitation piloté par les données d’Adobe.
 solution: Experience Cloud
-type: Didacticiel
+type: Tutorial
 hide: true
 translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 0%
+source-wordcount: '42'
+ht-degree: 100%
 
 ---
 
 
-# Guide du modèle d&#39;exploitation axé sur les données d&#39;Adobe {#ddom}
+# Guide d’utilisation du modèle d’exploitation piloté par les données (DDOM) d’Adobe {#ddom}
 
-+ [Présentation](overview.md)
-+ [Présentation de DDOM](ddom-introduction.md)
-+ [Adobe Digital Transformation Story](transformation-story.md)
-+ [Les trois piliers fondamentaux du DOM](ddom-components.md)
-+ [Informations découvertes par DDOM](ddom-insights.md)
++ [Aperçu](overview.md)
++ [Présentation du modèle d’exploitation DDOM](ddom-introduction.md)
++ [Histoire de la transformation digitale d’Adobe](transformation-story.md)
++ [Les trois piliers fondamentaux du modèle d’exploitation DDOM](ddom-components.md)
++ [Idées et connaissances révélées par le modèle d’exploitation DDOM](ddom-insights.md)
