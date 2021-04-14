@@ -1,9 +1,9 @@
 ---
 source-git-commit: ea774529b25ecca51d3eabce9884df283c38fc24
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '296'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 # Contribution
@@ -20,13 +20,13 @@ vous devez respecter ce code. Veuillez signaler tout comportement inacceptable �
 
 ## Documentation du Guide du contributeur
 
-Consultez le [Guide du contributeur](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consultez le [Guide du contributeur](https://docs.adobe.com/content/help/fr/contributor/contributor-guide/introduction.html).
 
 ## Vous avez une question ?
 
 Commencez par signaler un problème. Les membres de comité actuels de ce projet travaillent à parvenir à un consensus
 concernant l’orientation du projet et à trouver des solutions
- dans les fils de discussion (s’il y a lieu).
+dans les fils de discussion (s’il y a lieu).
 
 ## Contrat de licence du contributeur
 
