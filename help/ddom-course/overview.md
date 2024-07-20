@@ -2,14 +2,13 @@
 title: Modèle d’exploitation piloté par les données (DDOM) d’Adobe
 description: Aperçu de l’article.
 keywords: DDOM, transformation digitale
-translation-type: ht
-source-git-commit: a3efa696f0c4172ce04101b538d47a761f4fe41e
-workflow-type: ht
+exl-id: fe876275-aa10-418a-af3f-0ac078640433
+source-git-commit: 5a22a4f547b02989e175a15598516b80d7711cac
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
 ---
-
 
 # Modèle d’exploitation piloté par les données (DDOM) d’Adobe
 
@@ -17,7 +16,7 @@ Bienvenue dans la présentation du modèle d’exploitation piloté par les donn
 
 * [Présentation du modèle d’exploitation DDOM](ddom-introduction.md)
 * [Histoire de la transformation digitale d’Adobe](transformation-story.md)
-* [Les trois piliers fondamentaux du modèle DDOM](ddom-components.md)
+* [Les trois piliers fondamentaux du modèle d’exploitation DDOM](ddom-components.md)
 * [Idées et connaissances révélées par le modèle d’exploitation DDOM](ddom-insights.md)
 
 <!--
